@@ -6,24 +6,23 @@ This project outlines a comprehensive Disaster Recovery (DR) and Business Contin
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-🧠 Skills Learned
 🔐 Cybersecurity Risk Assessment
-Identifying, categorizing, and prioritizing cyber threats (e.g., ransomware, DDoS, phishing, insider threats).
+- Identifying, categorizing, and prioritizing cyber threats (e.g., ransomware, DDoS, phishing, insider threats).
 
 📊 Business Impact Analysis (BIA)
-Evaluating critical business functions and the consequences of disruption.
+- Evaluating critical business functions and the consequences of disruption.
 
 📋 Disaster Recovery & Continuity Planning
-Designing detailed recovery strategies for data, applications, and infrastructure.
+- Designing detailed recovery strategies for data, applications, and infrastructure.
 
 🧭 Incident Response Coordination
-Structuring a communication and escalation path for crisis situations.
+- Structuring a communication and escalation path for crisis situations.
 
 🛡️ Compliance Awareness
-Understanding of NIST CSF and ISO 22301 standards.
+- Understanding of NIST CSF and ISO 22301 standards.
 
 🔄 Plan Testing and Maintenance
-Creating an iterative testing approach and versioning system for updates.
+- Creating an iterative testing approach and versioning system for updates.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
