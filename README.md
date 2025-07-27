@@ -1,18 +1,29 @@
 # Contingency-Planning
  🚨 Disaster Recovery &amp; Business Continuity Plan – SavorySauce Restaurant (Cybersecurity Simulation)
  
-## Objective
-
 This project outlines a comprehensive Disaster Recovery (DR) and Business Continuity Plan (BCP) designed to mitigate the impact of cyberattacks targeting SavorySauce Restaurant, a simulated restaurant business environment. It was created as part of a cybersecurity academic/practical exercise to demonstrate strategic planning, risk management, and incident response.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+🧠 Skills Learned
+🔐 Cybersecurity Risk Assessment
+Identifying, categorizing, and prioritizing cyber threats (e.g., ransomware, DDoS, phishing, insider threats).
+
+📊 Business Impact Analysis (BIA)
+Evaluating critical business functions and the consequences of disruption.
+
+📋 Disaster Recovery & Continuity Planning
+Designing detailed recovery strategies for data, applications, and infrastructure.
+
+🧭 Incident Response Coordination
+Structuring a communication and escalation path for crisis situations.
+
+🛡️ Compliance Awareness
+Understanding of NIST CSF and ISO 22301 standards.
+
+🔄 Plan Testing and Maintenance
+Creating an iterative testing approach and versioning system for updates.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
