@@ -23,7 +23,7 @@ Compliance Awareness
 Plan Testing and Maintenance
 - Creating an iterative testing approach and versioning system for updates.
 
-### 🛠️Tools Used
+### Tools Used
 
 - NIST Cybersecurity Framework – For structuring risk response strategy.
 - ISO 22301 – As a baseline for BCP standards.
