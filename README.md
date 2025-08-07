@@ -31,7 +31,7 @@ Plan Testing and Maintenance
 ## Steps
 
 - Defining the Scope of the project
-<img width="919" height="463" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
+<img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
 
 *Ref 1: Scope of the Plan*
 
