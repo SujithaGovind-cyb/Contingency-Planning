@@ -38,12 +38,12 @@ Defining the Scope:
 - Defining the employees roles & responsibilities
 - Listing Key employee, supplier and Key customer contact information and highlighting emergency contact person information during a disaster.
 - Performed Buisness Impact Analysis by identifying key business functions and potential impact to them
-<img width="362" height="359" alt="image" src="https://github.com/user-attachments/assets/611fe415-a195-48d0-a0df-2a7b5c636b57" />
+<img width="462" height="359" alt="image" src="https://github.com/user-attachments/assets/611fe415-a195-48d0-a0df-2a7b5c636b57" />
 
 *Ref 1: Business Impact Analysis Sample*
 
 - Performed Risk Assessment and Management for IT System security risks such as Ransomeware attack, DDoS attack and Phishing Attack.
-<img width="339" height="342" alt="image" src="https://github.com/user-attachments/assets/34e414b4-4c97-4628-b234-d8bc3cd6328f" />
+<img width="439" height="342" alt="image" src="https://github.com/user-attachments/assets/34e414b4-4c97-4628-b234-d8bc3cd6328f" />
 
 *Ref 1: Risk Assessment and Management Sample*
 
