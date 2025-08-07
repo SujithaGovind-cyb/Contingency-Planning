@@ -43,7 +43,7 @@ Defining the Scope:
 *Ref 1: Business Impact Analysis Sample*
 
 - Performed Risk Assessment and Management for IT System security risks such as Ransomeware attack, DDoS attack and Phishing Attack.
-<img width="939" height="842" alt="image" src="https://github.com/user-attachments/assets/34e414b4-4c97-4628-b234-d8bc3cd6328f" />
+<img width="339" height="342" alt="image" src="https://github.com/user-attachments/assets/34e414b4-4c97-4628-b234-d8bc3cd6328f" />
 
 *Ref 1: Risk Assessment and Management Sample*
 
