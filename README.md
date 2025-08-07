@@ -30,10 +30,10 @@ Plan Testing and Maintenance
 
 ## Steps
 
-Defining the Scope:
-- Critical Business Functions - Critical business functions identified by the company’s Business Impact Analysis (BIA).
-- IT Systems - All IT systems that support the essential function of the Critical Business Functions.
-- People - Technicians and key knowledge workers that support the identified Critical Business Functions.
+- Defining the Scope of the project
+<img width="919" height="463" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
+
+*Ref 1: Scope of the Plan*
 
 - Defining the employees roles & responsibilities
 - Listing Key employee, supplier and Key customer contact information and highlighting emergency contact person information during a disaster.
