@@ -33,5 +33,11 @@ Plan Testing and Maintenance
 Defining the Scope:
 - Critical Business Functions - Critical business functions identified by the company’s Business Impact Analysis (BIA).
 - IT Systems - All IT systems that support the essential function of the Critical Business Functions.
-- People - Technicians and key knowledge workers that support the identified Critical Business Functions
+- People - Technicians and key knowledge workers that support the identified Critical Business Functions.
+
+- Defining the employees roles & responsibilities
+- Listing Key employee, supplier and Key customer contact information and highlighting emergency contact person information during a disaster.
+- Performed Buisness Impact Analysis by identifying key business functions and potential impact to them
+<img width="962" height="959" alt="image" src="https://github.com/user-attachments/assets/611fe415-a195-48d0-a0df-2a7b5c636b57" />
+
 *Ref 1: Network Diagram*
