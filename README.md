@@ -30,13 +30,13 @@ Plan Testing and Maintenance
 
 ## Steps
 
-- Defining the Scope of the project
+- Defined the Scope of the project
 <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
 
 *Ref 1: Scope of the Plan*
 
-- Defining the employees roles & responsibilities
-- Listing Key employee, supplier and Key customer contact information and highlighting emergency contact person information during a disaster.
+- Defined the employees roles & responsibilities and Listed Key employee, supplier and Key customer contact information.
+- Highlighted emergency contact person information during a disaster.
 - Performed Buisness Impact Analysis by identifying key business functions and potential impact to them
 <img width="462" height="359" alt="image" src="https://github.com/user-attachments/assets/611fe415-a195-48d0-a0df-2a7b5c636b57" />
 
