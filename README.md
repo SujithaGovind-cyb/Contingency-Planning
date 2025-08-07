@@ -30,5 +30,6 @@ Plan Testing and Maintenance
 
 ## Steps
 
+<img width="455" height="196" alt="image" src="https://github.com/user-attachments/assets/9e822c27-9748-4b96-934d-742285c94129" />
 
 *Ref 1: Network Diagram*
