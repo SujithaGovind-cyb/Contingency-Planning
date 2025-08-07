@@ -40,4 +40,11 @@ Defining the Scope:
 - Performed Buisness Impact Analysis by identifying key business functions and potential impact to them
 <img width="362" height="359" alt="image" src="https://github.com/user-attachments/assets/611fe415-a195-48d0-a0df-2a7b5c636b57" />
 
-*<Italic>Ref 1: Business Impact Analysis Sample*
+*Ref 1: Business Impact Analysis Sample*
+
+- Performed Risk Assessment and Management for IT System security risks such as Ransomeware attack, DDoS attack and Phishing Attack.
+<img width="939" height="842" alt="image" src="https://github.com/user-attachments/assets/34e414b4-4c97-4628-b234-d8bc3cd6328f" />
+
+*Ref 1: Risk Assessment and Management Sample*
+
+- 
