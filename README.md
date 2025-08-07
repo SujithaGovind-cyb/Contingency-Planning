@@ -39,4 +39,5 @@ Defining the Scope:
 - Listing Key employee, supplier and Key customer contact information and highlighting emergency contact person information during a disaster.
 - Performed Buisness Impact Analysis by identifying key business functions and potential impact to them
 <img width="362" height="359" alt="image" src="https://github.com/user-attachments/assets/611fe415-a195-48d0-a0df-2a7b5c636b57" />
+
 *Ref 1: Business Impact Analysis Sample*
