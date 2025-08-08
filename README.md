@@ -53,7 +53,7 @@ Plan Testing and Maintenance
 - Formed an Emergency Response Team (ERT) tasked with assessing incidents and initiating the Emergency Response Plan (ERP).
 - Implemented clear communication procedures to keep employees, stakeholders, and authorities informed during disasters.
 - Defined escalation protocols and DRP activation measures to safeguard IT systems, maintain data integrity, and sustain critical operations.
-<img width="1037" height="752" alt="image" src="https://github.com/user-attachments/assets/2da39e01-cb8a-4732-8ae3-f1d928b418f6" />
+<img width="437" height="352" alt="image" src="https://github.com/user-attachments/assets/2da39e01-cb8a-4732-8ae3-f1d928b418f6" />
 
 *Ref 4: Responsibilities of Emergency Response Team*
 
