@@ -40,11 +40,20 @@ Plan Testing and Maintenance
 - Performed Buisness Impact Analysis by identifying key business functions and potential impact to them
 <img width="462" height="359" alt="image" src="https://github.com/user-attachments/assets/611fe415-a195-48d0-a0df-2a7b5c636b57" />
 
-*Ref 1: Business Impact Analysis Sample*
+*Ref 2: Business Impact Analysis Sample*
 
 - Performed Risk Assessment and Management for IT System security risks such as Ransomeware attack, DDoS attack and Phishing Attack.
 <img width="439" height="342" alt="image" src="https://github.com/user-attachments/assets/34e414b4-4c97-4628-b234-d8bc3cd6328f" />
 
-*Ref 1: Risk Assessment and Management Sample*
+*Ref 3: Risk Assessment and Management Sample*
 
-- 
+- Defined triggering events for DDoS, ransomware, and phishing attacks to determine Disaster Recovery Plan (DRP) activation.
+- Outlined DRP activation steps during office and after-office hours, ensuring clear communication and coordinated recovery.
+- Established criteria for when to escalate each cyber incident into full DRP execution to protect critical business functions.
+- Formed an Emergency Response Team (ERT) tasked with assessing incidents and initiating the Emergency Response Plan (ERP).
+- Implemented clear communication procedures to keep employees, stakeholders, and authorities informed during disasters.
+- Defined escalation protocols and DRP activation measures to safeguard IT systems, maintain data integrity, and sustain critical operations.
+<img width="1037" height="752" alt="image" src="https://github.com/user-attachments/assets/2da39e01-cb8a-4732-8ae3-f1d928b418f6" />
+
+*Ref 4: Responsibilities of Emergency Response Team*
+
