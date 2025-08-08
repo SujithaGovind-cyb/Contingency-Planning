@@ -72,4 +72,3 @@ Plan Testing and Maintenance
 - Assigned 2 PR team members with 6 clearly defined communication responsibilities for media, customers, and stakeholders.
 - Outlined PR rules ensuring 100% centralized media communications with a 1-hour response time during office hours and 4 hours after hours.
 - Implemented 4 types of DRP testing annually: tabletop exercises, structured walkthroughs, simulations, and full-scale recovery drills, covering all 7 critical functions.
-- 
