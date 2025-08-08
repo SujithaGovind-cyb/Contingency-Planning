@@ -61,7 +61,7 @@ Plan Testing and Maintenance
 - Established clear communication protocols through departmental managers, backup staff, and designated spokespersons for consistent disaster updates.
 - Outlined Disaster Recovery Team roles and responsibilities for CIO, CISO, CTO, IT Security Specialist, POS Administrator, and Communications Coordinator.
 - Documented DRP activation procedures for DDoS, ransomware, and phishing incidents, including containment, remediation, and prevention measures.
-<img width="942" height="556" alt="image" src="https://github.com/user-attachments/assets/373437ed-7f88-41e5-8cb2-b19c77cc51e1" />
+<img width="442" height="356" alt="image" src="https://github.com/user-attachments/assets/373437ed-7f88-41e5-8cb2-b19c77cc51e1" />
 
 *Ref 5: DRP Activation Procedure for Ransomware attack*
 
