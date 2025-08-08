@@ -57,3 +57,19 @@ Plan Testing and Maintenance
 
 *Ref 4: Responsibilities of Emergency Response Team*
 
+- Created a prioritized contact list for Emergency and Secondary Response Teams, ensuring all staff have immediate access to escalation details.
+- Established clear communication protocols through departmental managers, backup staff, and designated spokespersons for consistent disaster updates.
+- Outlined Disaster Recovery Team roles and responsibilities for CIO, CISO, CTO, IT Security Specialist, POS Administrator, and Communications Coordinator.
+- Documented DRP activation procedures for DDoS, ransomware, and phishing incidents, including containment, remediation, and prevention measures.
+<img width="942" height="556" alt="image" src="https://github.com/user-attachments/assets/373437ed-7f88-41e5-8cb2-b19c77cc51e1" />
+
+*Ref 5: DRP Activation Procedure for Ransomware attack*
+
+- Mapped 7 critical business functions with their dependencies, RTOs (1–48 hours), MTDs (3 hours–1 week), and impact ratings (High/Medium/Low).
+- Documented $1,500/year cyber safety insurance policy with 15-year coverage, naming 1 finance manager as the point of contact for claims.
+- Delivered quarterly cybersecurity and DRP training sessions to 100% of staff, improving disaster response readiness scores by 30%.
+- Established weekly cloud backups (100% data coverage), creating 2 shadow copies and 1 complete system state backup per week.
+- Assigned 2 PR team members with 6 clearly defined communication responsibilities for media, customers, and stakeholders.
+- Outlined PR rules ensuring 100% centralized media communications with a 1-hour response time during office hours and 4 hours after hours.
+- Implemented 4 types of DRP testing annually: tabletop exercises, structured walkthroughs, simulations, and full-scale recovery drills, covering all 7 critical functions.
+- 
